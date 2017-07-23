@@ -24,7 +24,8 @@
 
 ## 作业链接：
 
-githubx项目链接: [Smove][1]
+github项目链接: [Smove][1]
+
 githubpages: [Smove][2]
 
 
