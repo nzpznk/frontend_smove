@@ -22,5 +22,13 @@
  - main.js 主逻辑以及开始结束显示
  - direction.js 定义了方向常量以及触控设备的方向计算函数
 
+## 作业链接：
+
+githubx项目链接: [Smove][1]
+githubpages: [Smove][2]
+
+
+  [1]: https://github.com/nzpznk/frontend_smove
+  [2]: https://nzpznk.github.io/frontend_smove/smove.html
 
 
