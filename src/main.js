@@ -67,7 +67,7 @@ function initPlay(whiteBall, blackBalls, square) {
             if (whiteBall.score % 10 === 9) {
                 square.color = 'yellow';
             } else {
-                square.color = 'red';
+                square.color = 'blue';
             }
             if(whiteBall.score % 10 === 0) {
                 updateLevel(whiteBall.level);
